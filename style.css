@@ -1,0 +1,64 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.contenitore {
+    background-color: lightslategray;
+    border: black 1px solid;
+    margin-top: 70px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.testo-logo {
+    color: rgb(70, 218, 65);
+}
+
+.logo-brand {
+    width: 200px;
+}
+
+.bottoni{
+    background-color: rgb(70, 218, 65);
+    text-align: center;
+    padding: 15px;
+}
+
+main{
+    color: white;
+}
+
+.titolo-opzione {
+    display: inline-block;
+}
+
+#stato-carica-1 {
+    color: orange;
+    background-color: orange;
+    width: 200px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+#stato-carica-2 {
+    color: green;
+    background-color: green;
+    width: 500px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+#stato-carica-3 {
+    color: red;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+}
